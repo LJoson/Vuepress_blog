@@ -47,12 +47,12 @@ module.exports = [
     }],
 
     ['@vuepress/google-analytics',
-        //{
-        //ga: 'UA-162861883-1'//gitee
-        //},
         {
-            ga: 'UA-162861883-2'//github
-        }
+        ga: 'UA-162861883-1'//gitee
+        },
+        //{
+           // ga: 'UA-162861883-2'//github
+        //}
     ],
 
     // [
@@ -85,8 +85,8 @@ module.exports = [
     [require('../../plugins/enhanced-search'), { // 可以添加第三方搜索链接的搜索框（原官方搜索框的参数仍可用）
         thirdparty: [ // 可选，默认 []
             {
-                title: '在 <span style="color: blue; ">Baidu</span> &nbsp;&nbsp;中搜索 ',
-                frontUrl: 'https://www.baidu.com/s?wd=',
+                title: '在 <span style="color: blue; ">Bing</span> &nbsp;&nbsp;中搜索 ',
+                frontUrl: 'https://cn.bing.com/search?q=',
             },
             {
                 title: '在 <span style="color: red; ">Google</span> 中搜索 ',

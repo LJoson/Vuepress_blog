@@ -1,5 +1,5 @@
 ---
-title: vue静态博客
+title: Vuepress静态博客
 date: 2021-02-13 20:31:12
 sidebar: true
 sidebarDepth: 5
@@ -10,6 +10,8 @@ categories:
 isShowComments: true
 ---
 
+
+vue
 Vuepress+git+node.js
 
 https://vuepress.vuejs.org/zh/

@@ -110,12 +110,12 @@ git merge origin/main // 合并远端origin/main分支到当前本地分支
 
 GitHub改host加速：
 
-![1](https://gitee.com/Lj_Evan/images/raw/main/git/20210608225024.png) 
+![1](https://gitee.com/Lj_Evan/images/raw/master/git/20210608225024.png) 
 
 密钥地址：
 
- ![2](https://gitee.com/Lj_Evan/images/raw/main/git/20210608225037.png)
- 
+ ![2](https://gitee.com/Lj_Evan/images/raw/master/git/20210608225037.png)
+
 
 YAMLException: can not read a block mapping entry; a multiline key may not be an implicit key at line 3, column 5:                                                                                                
      date: 2020-05-24 20:40:12                                                                                                                                                                                     

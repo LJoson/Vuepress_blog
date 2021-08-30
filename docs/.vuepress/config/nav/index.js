@@ -19,6 +19,6 @@ module.exports = [
       { text: 'CSDN', link: 'https://blog.csdn.net/qq_43743037', }]//跟project同级
     },]
   },
-  { text: '时间线', link: '/timeLine/', icon: 'reco-date' },
+  { text: '时间线', link: '/timeLine/index', icon: 'reco-date' },
   { text: '关于坊主', link: '/about/aboutme', icon: 'reco-message' },
 ]
