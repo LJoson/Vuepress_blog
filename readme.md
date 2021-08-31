@@ -26,7 +26,9 @@
 
 使用的是一个国人开源的主题[vuepress-theme-reco](https://vuepress-theme-reco.recoluan.com/en/),搭建博客最快的方法就是扒自己喜欢的博客再改成自己的，省事。
 ### 架构
+```
 ##需要自己写主题样式的话，在.vuepress/ 下新建theme文件夹，参考如下目录布局
+
 Vuepress_blog
 ├── deploy.sh	//部署脚本
 ├── docs
@@ -52,6 +54,8 @@ Vuepress_blog
 │           └── styles	//样式
 ├── package-lock.json
 ├── package.json //项目依赖
+
+```
 ### 使用模板
 在项目文件夹下执行命令，加载依赖：yarn install  #npm install
 在项目文件夹下执行命令，运行项目：yarn run docs:dev  #npm run docs:dev
