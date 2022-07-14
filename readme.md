@@ -80,8 +80,8 @@ yarn init # npm init
 ```
 yarn add -D vuepress # npm install -D vuepress
 ```
-::: tip  注意 
+tips:
 如果你的现有项目依赖了 webpack 3.x，我们推荐使用 Yarn 而不是 npm 来安装 VuePress。因为在这种情形下，npm 会生成错误的依赖树。 
-:::
+
 
 接下来就可以写博客了。更多配置[官方文档](https://v1.vuepress.vuejs.org/zh/guide/)
